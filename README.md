@@ -6,6 +6,8 @@ This repository holds the current kernel header files package
 - 2022-01-16  Current version 5.10.92
 - 2022-01-31  Current version 5.10.95
 - 2022-04-04  Current version 5.10.109, removed unsupported ones
+- 2022-04-20  Current version 5.10.112
+
 
 
 
